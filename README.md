@@ -6,9 +6,13 @@
 ---
 
 ### 🛠 Skills
-- **C++**
+- **C / C++**
 - **Web Development**
 - **Reverse Engineering**
+- **Penetration Testing**
+- **Game Hacking**
+- **Security Research**
+- **Exploit Development**
 ---
 
 ### 📫 How to Reach Me
