@@ -1,1 +1,6 @@
-- 👋 Hi, I’m @hollow979
+- 👋 Hey, i'm hollow.
+
+🌍 Based in Finland
+
+C++ Developer
+Web Developer
