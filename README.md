@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Hollow
+---
+🌍 **Based in - ** Finland
 
-🌍 **Based in:** Finland  
-🚀 **Currently working on:** [hollow.bio](https://hollow.bio)
+🚀 **Currently working on -** [hollow.bio](https://hollow.bio)
 ---
 
 ### 🛠 Skills
