@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Hollow
+# 👋 Hey
 
 🌍 **Based in** – Finland  
 🚀 **Currently working on** – [hollow.bio](https://hollow.bio)
