@@ -6,13 +6,15 @@
 ---
 
 ### 🛠 Skills
-- **C / C++**
-- **Web Development**
-- **Reverse Engineering**
-- **Penetration Testing**
-- **Game Hacking**
-- **Security Research**
-- **Exploit Development**
+- **Programming Languages**:  
+  - **C / C++**, **C#**, **Python**, **Assembly (ASM)**, **PHP**, **JavaScript**
+
+- **Web Development**:  
+  - **Front-End**: React, JavaScript  
+  - **Back-End**: PHP, Node.js
+
+- **Security & Reverse Engineering**:  
+  - **Reverse Engineering**, **Penetration Testing**, **Exploit Development**, **Game Hacking**, **Security Research**
 ---
 
 ### 📫 How to Reach Me
