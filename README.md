@@ -1,16 +1,7 @@
 # 👋 Hey
 
 🌍 **Based in** – Finland  
-🚀 **Currently working on** – [hollow.bio](https://hollow.bio) & [vacban](https://vacban.wtf)
 
----
-
-### 🛠 Skills
-- **Programming Languages**:  
-  - **C / C++**, **C#**, **Python**, **Assembly (ASM)**, **PHP**, **JavaScript**
-
-- **Security & Reverse Engineering**:  
-  - **Reverse Engineering**, **Penetration Testing**, **Exploit Development**, **Game Hacking**, **Security Research**
 ---
 
 ### 📫 How to Reach Me
